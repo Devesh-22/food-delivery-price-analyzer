@@ -1,0 +1,76 @@
+platform,restaurant,item,price
+Zomato,Paradise,Biryani,250
+Swiggy,Paradise,Biryani,270
+Zomato,Meghana,Biryani,280
+Swiggy,Meghana,Biryani,300
+Zomato,Empire,Biryani,260
+Swiggy,Empire,Biryani,280
+Zomato,Behrouz Biryani,Dum Biryani,320
+Swiggy,Behrouz Biryani,Dum Biryani,340
+Zomato,Dominos,Pizza,199
+Swiggy,Dominos,Pizza,220
+Zomato,Oven Story,Pizza,290
+Swiggy,Oven Story,Pizza,310
+Zomato,La Pinoz,Pizza,240
+Swiggy,La Pinoz,Pizza,260
+Zomato,KFC,Fried Chicken,180
+Swiggy,KFC,Fried Chicken,200
+Zomato,KFC,Chicken Wings,210
+Swiggy,KFC,Chicken Wings,230
+Zomato,McDonalds,Burger,120
+Swiggy,McDonalds,Burger,135
+Zomato,McDonalds,Fries,90
+Swiggy,McDonalds,Fries,105
+Zomato,Burger King,Whopper,160
+Swiggy,Burger King,Whopper,175
+Zomato,Burger King,Fries,95
+Swiggy,Burger King,Fries,110
+Zomato,Subway,Sandwich,150
+Swiggy,Subway,Sandwich,170
+Zomato,Subway,Salad,180
+Swiggy,Subway,Salad,195
+Zomato,Wow Momo,Momos,140
+Swiggy,Wow Momo,Momos,155
+Zomato,Wow Momo,Fried Momos,160
+Swiggy,Wow Momo,Fried Momos,175
+Zomato,Faasos,Wrap,180
+Swiggy,Faasos,Wrap,195
+Zomato,Faasos,Rice Bowl,220
+Swiggy,Faasos,Rice Bowl,240
+Zomato,Chai Point,Tea,60
+Swiggy,Chai Point,Tea,70
+Zomato,Chai Point,Coffee,90
+Swiggy,Chai Point,Coffee,105
+Zomato,Starbucks,Cappuccino,220
+Swiggy,Starbucks,Cappuccino,240
+Zomato,Starbucks,Latte,240
+Swiggy,Starbucks,Latte,260
+Zomato,Dominos,Garlic Bread,99
+Swiggy,Dominos,Garlic Bread,110
+Zomato,Dominos,Cheese Burst Pizza,349
+Swiggy,Dominos,Cheese Burst Pizza,369
+Zomato,Empire,Kebab Platter,320
+Swiggy,Empire,Kebab Platter,350
+Zomato,Meghana,Chicken Curry,260
+Swiggy,Meghana,Chicken Curry,280
+Zomato,Paradise,Chicken 65,230
+Swiggy,Paradise,Chicken 65,250
+Zomato,McDonalds,McChicken Burger,150
+Swiggy,McDonalds,McChicken Burger,165
+Zomato,Burger King,Chicken Burger,145
+Swiggy,Burger King,Chicken Burger,160
+Zomato,Subway,Paneer Sandwich,170
+Swiggy,Subway,Paneer Sandwich,185
+Zomato,Wow Momo,Paneer Momos,150
+Swiggy,Wow Momo,Paneer Momos,165
+Zomato,Faasos,Paneer Wrap,190
+Swiggy,Faasos,Paneer Wrap,205
+Zomato,Oven Story,Cheese Pizza,300
+Swiggy,Oven Story,Cheese Pizza,320
+Zomato,La Pinoz,Cheese Pizza,260
+Swiggy,La Pinoz,Cheese Pizza,280
+Zomato,KFC,Popcorn Chicken,170
+Swiggy,KFC,Popcorn Chicken,190
+Zomato,Starbucks,Cold Coffee,260
+Swiggy,Starbucks,Cold Coffee,280
+
